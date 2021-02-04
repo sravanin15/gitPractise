@@ -1,3 +1,7 @@
 practising git commands
 adding second time
+<<<<<<< HEAD
 adding through another branch in git
+=======
+adding text through another branch
+>>>>>>> 192eef9898feba7a9574502f7d1a68a36b7968ec
